@@ -7,6 +7,4 @@ public interface Autoconst {
 	String chrome_key="webdriver.chrome.driver";
 	String chrome_value="./drivers/chromedriver.exe";
 	String PATH="./excel/excelframework.xls";
-	String internetexplorer_key="webdriver.internetexplorer.driver";
-	String internetexplorer_value="./drivers/internetexplorer.exe";
 }
